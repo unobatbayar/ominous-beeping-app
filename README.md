@@ -7,5 +7,5 @@
     <a href="https://github.com/unobatbayar/ominous-beeping-app/pull/new/master">Contribute</a>
   </h3>
 
-  <sub> Built with ❤️️ by <a href="https://www.twitter.com/unobatbayar">unobatbayar</a></sub>
+  <sub> Built by <a href="https://www.twitter.com/unobatbayar">unobatbayar</a> to learn Flutter. </sub>
 </div>
