@@ -1,2 +1,11 @@
-# ominous-beeping-app
-The Ominous Beeping App from Rick and Morty Season 4 Ep 2
+<div align="center">
+  <h1><code>ominous-beeping-app</code></h1>
+
+  <strong>The ominous beeping app made with Flutter.</strong>
+
+<h3>
+    <a href="https://github.com/unobatbayar/ominous-beeping-app/pull/new/master">Contribute</a>
+  </h3>
+
+  <sub> Built with ❤️️ by <a href="https://www.twitter.com/unobatbayar">unobatbayar</a></sub>
+</div>
