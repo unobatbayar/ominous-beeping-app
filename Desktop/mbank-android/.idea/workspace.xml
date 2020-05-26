@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12fca154-3b80-42ce-b55d-095b688451e5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="R9AMA179VKJ" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mbank-android" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ProductSe</find>
+      <find>ProfileMenuWidgetView</find>
+      <find>Lon</find>
+      <find>ProductSelectorWidget</find>
+      <find>Long</find>
+      <find>set</find>
+      <find>getEmailData</find>
+      <find>payload.set</find>
+      <find>payload =</find>
+      <find>payload</find>
+      <find>setOnLongClickListener</find>
+      <find>LongClick</find>
+      <find>showSuccess</find>
+      <find>showSuccessNotifi</find>
+      <find>delete</find>
+      <find>textCategory</find>
+      <find>cre</find>
+      <find>recurringDetailParse</find>
+      <find>c</find>
+      <find>ContactDetailsWidgetView</find>
+      <find>publish</find>
+      <find>ContactActivity</find>
+      <find>listViewRecurring</find>
+      <find>getRecurringDetail</find>
+      <find>parseRecurringDetails</find>
+      <find>getCardList</find>
+      <find>Map&lt;String</find>
+      <find>contact</find>
+      <find>ProfileMenu</find>
+      <find>buildRequestPost</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="easy-onboard" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/form/SelfPaymentView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/form/OtherPaymentView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/easy/OBUsernameWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/controller/NudgeControllerUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/util/PhoneUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/transactions/data/TransactionsDataImpl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/activity/OnboardKhurActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/temporary/data/TemporaryDataImpl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/profile/data/ProfileDataImpl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/profile/dto/User.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/easy/OBDurationWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/profile/views/ProfileInfoWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/easy/OBFirstNameWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/temporary/TPPepRelatedWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/custom/OTPViewListener.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/profile/views/ProfilePhoneChangeWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/util/KeyboardUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/util/KeyboardUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/easy/OBPhoneWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/login/core/LoginWidget.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/login/views/LoginWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/easy/OBRegisterWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/custom/OTPView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/easy/OBOtpCheckWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/core/OnboardWidget.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/easy/OBFingerGuideWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/passcode/core/PasscodeWidget.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/passcode/PasscodeWidgetAuthenticateView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/setupcompleted/SetupCompletedWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/PaymentClient.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/data/PaymentData.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/recurring_details.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/product/view/ProductSelectorWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/temporary/TPAddressCheckWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/core/contract/PaymentContract.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/core/PaymentWidget.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/dto/RecurringItem.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/recurring_payment_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/view/RecurringPaymentWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/recurring_list_row.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/PaymentParser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/profile/views/ProfileMenuWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/contacts/views/detail/ContactDetailsWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/dto/RecurringDetail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/DefaultPaymentParser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/card/data/CardDataImp.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/view/RecurringDetailsWidgetView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/data/PaymentDataImpl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/activity/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12fca154-3b80-42ce-b55d-095b688451e5" name="Default Changelist" comment="" />
+      <created>1587712123970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587712123970</updated>
+    </task>
+    <task id="LOCAL-00001" summary="feat: easy onboard testing and fixes">
+      <created>1587951937784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587951937784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: easy, otp service updates">
+      <created>1587959676968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587959676968</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: EasyOnboardItem, payload major replacement and update.">
+      <created>1588040446318</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588040446318</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: Easyonboard remade with clean code. 3 service heregtei, service gartal -&gt; publish() on error bga shu.">
+      <created>1588065161452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588065161452</updated>
+    </task>
+    <task id="LOCAL-00005" summary="re-feat: Easyonboard remade with clean code. 3 service heregtei, service gartal -&gt; publish() on error bga shu.">
+      <created>1588065319314</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588065319314</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: code readability">
+      <created>1588065736449</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588065736449</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: requestPCR success/error publish() n zov bolhoor errorDialog iin comment hiilee.">
+      <created>1588128149187</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588128149187</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: add back button on easyonboard">
+      <created>1588219844608</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588219844608</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix: correct back button appearance order">
+      <created>1588219934194</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588219934194</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix: changes">
+      <created>1588304036969</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588304036969</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix: revert">
+      <created>1588314258476</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588314258476</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix: nancy's bug fixes">
+      <created>1588319845292</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588319845292</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix: small string change">
+      <created>1588321181773</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1588321181773</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix: easy onboard &lt;-&gt; zeplin improvements.">
+      <created>1588341882788</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1588341882789</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: nancy's changes">
+      <created>1588659210671</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1588659210671</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: nancy's changes, re">
+      <created>1588660499080</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1588660499080</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: revert test state">
+      <created>1588660536918</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1588660536918</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat: easy onboard testing, onboard service on">
+      <created>1588746773710</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1588746773710</updated>
+    </task>
+    <task id="LOCAL-00019" summary="feat: easy onboard 100%">
+      <created>1588816946208</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1588816946209</updated>
+    </task>
+    <task id="LOCAL-00020" summary="feat: profile settings menu camel case first last name, getUserInfo">
+      <created>1588821767153</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1588821767153</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fix: крил -&gt; кирилл fix">
+      <created>1588839658274</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1588839658274</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fix: easy onboarding testing and improvements">
+      <created>1589162232031</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1589162232031</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fix: improvements">
+      <created>1589164467557</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1589164467557</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fix: major bug fix">
+      <created>1589166027911</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1589166027911</updated>
+    </task>
+    <task id="LOCAL-00025" summary="fix: add easy otp block">
+      <created>1589168888180</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1589168888180</updated>
+    </task>
+    <task id="LOCAL-00026" summary="chore: message paraphrase easy-finger">
+      <created>1589182555332</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1589182555332</updated>
+    </task>
+    <task id="LOCAL-00027" summary="chore: comment notification easy finger">
+      <created>1589183129089</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1589183129089</updated>
+    </task>
+    <task id="LOCAL-00028" summary="feat: biometrics Improvements">
+      <created>1589352077361</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1589352077361</updated>
+    </task>
+    <task id="LOCAL-00029" summary="feat: clean code widget, adapter, client - &gt;add recurring list, details, delete">
+      <created>1589549982169</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1589549982169</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24200426" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32982087" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.032502707" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4978678" weight="0.1375948" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49946696" weight="0.3033586" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49946696" weight="0.20151679" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5021322" side_tool="true" weight="0.07475623" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49946696" weight="0.14734562" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.49946696" visible="true" weight="0.20151679" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.3379531" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Flutter Inspector" order="6" weight="0.32942432" />
+      <window_info anchor="right" id="Flutter Outline" order="7" weight="0.32942432" />
+      <window_info anchor="right" id="Flutter Performance" order="8" visible="true" weight="0.32942432" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24200426" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32982087" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.032502707" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4978678" visible="true" weight="0.19826652" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49946696" weight="0.3033586" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49946696" weight="0.20151679" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5021322" side_tool="true" weight="0.07475623" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49946696" weight="0.14734562" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49946696" weight="0.20151679" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info active="true" anchor="right" id="Preview" order="4" visible="true" weight="0.3379531" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Flutter Inspector" order="6" weight="0.32969433" />
+      <window_info anchor="right" id="Flutter Outline" order="7" weight="0.32969433" />
+      <window_info anchor="right" id="Flutter Performance" order="8" weight="0.32969433" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="re-feat: Easyonboard remade with clean code. 3 service heregtei, service gartal -&gt; publish() on error bga shu." />
+    <MESSAGE value="feat: code readability" />
+    <MESSAGE value="feat: requestPCR success/error publish() n zov bolhoor errorDialog iin comment hiilee." />
+    <MESSAGE value="feat: add back button on easyonboard" />
+    <MESSAGE value="fix: correct back button appearance order" />
+    <MESSAGE value="fix: changes" />
+    <MESSAGE value="fix: revert" />
+    <MESSAGE value="fix: nancy's bug fixes" />
+    <MESSAGE value="fix: small string change" />
+    <MESSAGE value="fix: easy onboard &lt;-&gt; zeplin improvements." />
+    <MESSAGE value="feat: nancy's changes" />
+    <MESSAGE value="feat: nancy's changes, re" />
+    <MESSAGE value="feat: revert test state" />
+    <MESSAGE value="feat: easy onboard testing, onboard service on" />
+    <MESSAGE value="feat: easy onboard 100%" />
+    <MESSAGE value="feat: profile settings menu camel case first last name, getUserInfo" />
+    <MESSAGE value="fix: крил -&gt; кирилл fix" />
+    <MESSAGE value="fix: easy onboarding testing and improvements" />
+    <MESSAGE value="fix: improvements" />
+    <MESSAGE value="fix: major bug fix" />
+    <MESSAGE value="fix: add easy otp block" />
+    <MESSAGE value="chore: message paraphrase easy-finger" />
+    <MESSAGE value="chore: comment notification easy finger" />
+    <MESSAGE value="feat: biometrics Improvements" />
+    <MESSAGE value="feat: clean code widget, adapter, client - &gt;add recurring list, details, delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: clean code widget, adapter, client - &gt;add recurring list, details, delete" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/dto/Recurring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/conf/configuration-remote.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/listener/RecurringDetailListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="222" column="54" selection-start-line="222" selection-start-column="54" selection-end-line="222" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/c5b4c491aecb72e7c32a78da0b5c6b9cda8dee0f/gson-2.8.5-sources.jar!/com/google/gson/annotations/Expose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/card/dto/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+          <folding>
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/adapter/RecurringListAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/adapter/RecurringAdapterItem.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/adapter/RecurringViewHolder.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/adapter/ProductSelectorAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/product/view/ProductDetailWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/card/view/CardManagementWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="143" lean-forward="true" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/temporary/TPAddressCheckWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="71" column="73" lean-forward="true" selection-start-line="71" selection-start-column="73" selection-end-line="71" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/contact/dto/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/dataprovider/response/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="106" column="18" selection-start-line="106" selection-start-column="18" selection-end-line="106" selection-end-column="18" />
+          <folding>
+            <element signature="e#3373#3374#0" expanded="true" />
+            <element signature="e#3436#3437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/dto/RecurringItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/PaymentClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="69" column="42" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/core/PaymentWidget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="130" column="35" lean-forward="true" selection-start-line="130" selection-start-column="35" selection-end-line="130" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/payment_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="138" column="31" selection-start-line="138" selection-start-column="31" selection-end-line="138" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/data/PaymentData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/product/view/ProductListWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/product/view/ProductSelectorWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="225" column="78" selection-start-line="225" selection-start-column="78" selection-end-line="225" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-29/android/view/ViewGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="135" column="24" lean-forward="true" selection-start-line="135" selection-start-column="24" selection-end-line="135" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/temporary/TPAddAddressWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="99" column="36" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/temporary/TPEmployeeAddressWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="214" column="41" lean-forward="true" selection-start-line="214" selection-start-column="41" selection-end-line="214" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/profile/views/ProfileEditEmailWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="105" column="59" selection-start-line="105" selection-start-column="59" selection-end-line="105" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/profile/views/ProfileEmailOTPWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="200" column="108" selection-start-line="200" selection-start-column="101" selection-end-line="200" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/temporary/TPEmployeeRoleWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/onboard/view/temporary/TPPepCheckWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="81" column="25" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/loan/views/LoanSliderWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="145" column="25" lean-forward="true" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/notification/list/NotificationViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/recurring_payment_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#925#944#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/recurring_list_row.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+          <folding>
+            <element signature="e#1339#1358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/view/RecurringPaymentWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="146" column="17" selection-start-line="146" selection-start-column="17" selection-end-line="146" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2474#2475#0" expanded="true" />
+            <element signature="e#2508#2509#0" expanded="true" />
+            <element signature="e#3234#3235#0" expanded="true" />
+            <element signature="e#3261#3262#0" expanded="true" />
+            <element signature="e#3347#3348#0" expanded="true" />
+            <element signature="e#3387#3388#0" expanded="true" />
+            <element signature="e#3351#3352#0" expanded="true" />
+            <element signature="e#3390#3391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/contacts/core/contract/ContactsContract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/contacts/views/ContactsView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" lean-forward="true" selection-start-column="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/contacts/activity/ContactActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/dto/RecurringDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
+            <element signature="e#1190#1191#0" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="true" />
+            <element signature="e#1262#1263#0" expanded="true" />
+            <element signature="e#1316#1317#0" expanded="true" />
+            <element signature="e#1362#1363#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1488#1489#0" expanded="true" />
+            <element signature="e#1534#1535#0" expanded="true" />
+            <element signature="e#1568#1569#0" expanded="true" />
+            <element signature="e#1598#1599#0" expanded="true" />
+            <element signature="e#1644#1645#0" expanded="true" />
+            <element signature="e#1682#1683#0" expanded="true" />
+            <element signature="e#1714#1715#0" expanded="true" />
+            <element signature="e#1742#1743#0" expanded="true" />
+            <element signature="e#1784#1785#0" expanded="true" />
+            <element signature="e#1818#1819#0" expanded="true" />
+            <element signature="e#1853#1854#0" expanded="true" />
+            <element signature="e#1884#1885#0" expanded="true" />
+            <element signature="e#1932#1933#0" expanded="true" />
+            <element signature="e#1972#1973#0" expanded="true" />
+            <element signature="e#2002#2003#0" expanded="true" />
+            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#2066#2067#0" expanded="true" />
+            <element signature="e#2096#2097#0" expanded="true" />
+            <element signature="e#2131#2132#0" expanded="true" />
+            <element signature="e#2162#2163#0" expanded="true" />
+            <element signature="e#2210#2211#0" expanded="true" />
+            <element signature="e#2250#2251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/core/contract/PaymentContract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/contacts/views/detail/ContactDetailsWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="74" column="32" lean-forward="true" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/profile/views/ProfileMenuWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="157" column="62" selection-start-line="157" selection-start-column="62" selection-end-line="157" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/payment/view/RecurringDetailsWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/data/PaymentDataImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="250" lean-forward="true" selection-start-line="250" selection-end-line="250" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="61" column="57" lean-forward="true" selection-start-line="61" selection-start-column="57" selection-end-line="61" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/recurring_details.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/view/widget/contacts/views/list/ContactsWidgetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="75" column="35" lean-forward="true" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/DefaultPaymentParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="80" column="59" selection-start-line="80" selection-start-column="59" selection-end-line="80" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/payment/PaymentParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/card/data/CardDataImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="41" column="76" selection-start-line="41" selection-start-column="64" selection-end-line="41" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mn/mbank/bb/client/RefreshService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
