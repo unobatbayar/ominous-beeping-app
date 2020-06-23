@@ -10,5 +10,12 @@
   <sub> Built by <a href="https://www.twitter.com/unobatbayar">unobatbayar</a> to learn Flutter. </sub>
 </div>
 
+## Demo
+<div align="center">
+
+![alt text](https://https://github.com/unobatbayar/ominous-beeping-app/blob/master/demo.gif)
+
+</div>
+
 <sub>Give feedback, ideas and more: <br> <sub> 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/unobatbayar.svg?style=social&label=Follow%20%40unobatbayar)](https://twitter.com/unobatbayar)
