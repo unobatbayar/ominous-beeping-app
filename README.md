@@ -13,7 +13,7 @@
 ## Demo
 <div align="center">
 
-![alt text](https://https://github.com/unobatbayar/ominous-beeping-app/blob/master/demo.gif)
+![](https://https://github.com/unobatbayar/ominous-beeping-app/blob/master/demo.gif)
 
 </div>
 
